@@ -1,7 +1,7 @@
 # Awesome-npm-modules
 List of awesome npm modules
 
-- reactj
+- reactjs
 - joi
 - body-parser
 - express
